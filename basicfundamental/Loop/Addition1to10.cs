@@ -10,9 +10,13 @@ namespace Myproject.basicfundamental.Loop
         static void Main(string[] args)
         {
             int sum = 0;
-            for (int i = 1; i <= 10; i++)
+            for (int i = 1; i <= 10; i++)   //for(inti; condi;change  i=1; i++/i+1; i<=10  ++i, i++
+                                            //a+b a=10
+                                            //++a+b 
+                                            //a++(+b)
             {
                 sum = sum + i;
+
             }
             Console.WriteLine(sum);
         }
