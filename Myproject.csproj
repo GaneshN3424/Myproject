@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
 	  <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>Myproject.basicfundamental.DemoArray.MaxMin2D</StartupObject>
+	  <StartupObject>Myproject.basicfundamental.StringDEMO.SentenceOccurance</StartupObject>
   </PropertyGroup>
 
 </Project>
