@@ -33,7 +33,7 @@ namespace Myproject.basicfundamental.StringDEMO
                     {
                        low = true;
                     }
-                   else if(char.IsLetterOrDigit(x))
+                    else if(!char.IsLetterOrDigit(x))
                     {
                         sp = true;
                     }
@@ -43,7 +43,7 @@ namespace Myproject.basicfundamental.StringDEMO
                
                 
             
-            if (length==true&&  sp == true&&low==true&&up==true&&digit==true)
+            if (length &&  sp && low &&up==true&&digit==true)
             {
                 Console.WriteLine("Password Is Valid");
 
