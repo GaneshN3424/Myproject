@@ -21,7 +21,7 @@ namespace Myproject.basicfundamental.StringDEMO
             Array.Sort(a1);
             Array.Sort(a2);
 
-            if()
+            if(string.Join("",a1)==string.Join("",a2))
             {
                 Console.WriteLine("Anagram");
 

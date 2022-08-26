@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
 	  <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>Myproject.basicfundamental.StringDEMO.Anagram</StartupObject>
+	  <StartupObject>Myproject.basicfundamental.Prorigo.SubArray</StartupObject>
   </PropertyGroup>
 
 </Project>
